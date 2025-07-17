@@ -1,0 +1,1 @@
+This project demonstrates a complete pipeline for building a Convolutional Neural Network (CNN) using TensorFlow (Keras) to classify images from the CIFAR-10 dataset. It covers preprocessing, model architecture, training, performance evaluation, and visual analytics.
